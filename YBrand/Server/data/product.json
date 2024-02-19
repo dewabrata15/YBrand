@@ -1,0 +1,21 @@
+[
+    {
+      "name": "T-Shirt Oversize Garis Kerah Bulat Lengan 1/2",
+      "description": "T-shirt Pria berbahan 100% katun yang lembut dan tahan lama. Potongan oversized yang mudah dipadupadankan.",
+      "price": "250000",
+      "stock": 50,
+      "imgUrl": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/465492/item/goods_03_465492.jpg?width=750",
+      "categoryId": 2,
+      "authorId": 3
+    },
+    {
+      "name": "Kemeja Katun Modal Kerah Tegak Lengan Pendek",
+      "description": "Kemeja Pria dari bahan katun ultra-long yang lembut dengan tampilan kasual.",
+      "price": "399000",
+      "stock": 20,
+      "imgUrl": "hhttps://image.uniqlo.com/UQ/ST3/id/imagesgoods/468914/item/idgoods_57_468914.jpg?width=750",
+      "categoryId": 4,
+      "authorId": 3
+    }
+  ]
+  

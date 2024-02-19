@@ -1,0 +1,23 @@
+[
+    {
+      "email": "zeridek@yahoo.com",
+      "password": "aaa123",
+      "role": "user",
+      "phoneNumber": 1408399899,
+      "address": "902 Lake View Drive"
+    },
+    {
+      "email": "maian@yahoo.com",
+      "password": "abc123",
+      "role": "user",
+      "phoneNumber": 5747856995,
+      "address": "89212 Scofield Hill"
+    },
+    {
+      "email": "jhondoe@rocketmail.com",
+      "password": "qwe123",
+      "role": "Admin",
+      "phoneNumber": 5765031803,
+      "address": "4 Sunbrook Junction"
+    }
+  ]
